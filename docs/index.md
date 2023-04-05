@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi everyone! 👋 In this user guide, we will explore some of the most powerful and widely-used features of [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel), focusing on three essential tasks like, _formatting tables, using formulas, and creating charts_.
+Hi everyone! 👋 In this user guide, we will explore some of the most powerful and widely-used features of [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel), focusing on three essential tasks such as, _formatting tables, using formulas, and creating charts_.
 
 Our goal is to help you leverage Excel's capabilities to streamline your work and improve productivity by providing step-by-step instructions for each task.
 
@@ -25,9 +25,9 @@ Before diving into the guide, you should have:
 
 ## Software Requirements
 
-For this project, you will need [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) (2016 or later verion) nstalled.
+For this project, you will need [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) (2016 or later verion) installed.
 
-> The instructions in this user guide are primarily based on the Microsoft Excel interface for Windows. However, the core concepts and steps can be applied to Excel on macOS or other platforms with minor adjustments.
+> The instructions in this user guide are primarily based on the Microsoft Excel interface for Windows. Although, the core concepts and steps can be applied to Excel on macOS or other platforms with minor adjustments, we will not be convering that in this guide.
 
 ## Procedures Overview
 
@@ -48,13 +48,13 @@ Topics covered in this user guide are:
 
 Throughout the guide, we will use message blocks to highlight important information or provide additional context. The message blocks are as follows, in order of importance:
 
-!!! danger
+!!! danger "Warning"
     Specifies actions that may cause an error or will cause the application to crash.
 
-!!! warning
+!!! warning "Caution"
     Specifies content that must be read before proceeding.
 
-!!! Note
+!!! infromation "Note"
     Indicates additional notes or tips.
 
 !!! success

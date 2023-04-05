@@ -1,30 +1,72 @@
-## Task 2: Using a Formula
+# Formatting Formulas
 
-### Overview
+## Overview
+In this section, you will learn how to format and work with [formulas](https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173) in Microsoft Excel. Excel formulas enable you to perform calculations, manipulate data, and automate tasks within your spreadsheets. Mastering Excel formulas can significantly improve your productivity and efficiency when working with data.
 
-In this task, we will use formulas to perform calculations on data in Excel.
 
-### Steps
+## Basic Formula Syntax
+Excel formulas typically follow a specific syntax:
 
-1. Open the workbook you created in Task 1 (if it isn't already open).
-<br>a. Click on the Open tab.
-<br>b. Click on Recent; your workbook should be here.
+`=FUNCTION_NAME(arguments)`
 
-2. In cell B7, replace the current formula by entering the formula "=SUM(B2:B6)" to calculate the total quantity.
-3. In cell C7, replace the current formula by entering the formula "=SUM(C2:C6)" to calculate the total price.
-4. In cell B8, enter the formula "=AVERAGE(B2:B6)" to calculate the average quantity.
-5. In cell C8, enter the formula "=AVERAGE(C2:C6)" to calculate the average price.
-6. In cell B9, enter the formula "=MAX(B2:B6)" to find the highest quantity.
-7. In cell C9, enter the formula "=MAX(C2:C6)" to find the highest price.
-8. In cell B10, enter the formula "=MIN(B2:B6)" to find the lowest quantity.
-9. In cell C10, enter the formula "=MIN(C2:C6)" to find the lowest price.
-10. Click on the File tab and then click Save.
+1. Formulas always begin with an equal sign (=).
+2. `FUNCTION_NAME` represents the name of the Excel function you want to use.
+3. `arguments` are the inputs or values required by the function, separated by commas.
+For example, the formula `=SUM(A1:A5)` adds up the values in the range A1 to A5.
 
-### Task 2 Conclusion
+!!! infromation "Note"
+    Indicates additional notes or tips.
 
-Well done! You have used formulas to perform calculations on data in Excel. Here's a reference of what your table should look like so far:
-<br>
-<br>
-![Task 2 Reference Image](Task2Reference.png "Task 2 Reference Image")
+Entering a Formula
+To enter a formula in a cell, follow these steps:
 
-<hr style="border:1px solid gray">
+Click on the cell where you want to enter the formula.
+
+Type the equal sign (=) to begin the formula.
+
+Enter the function name and its arguments, either by typing them directly or by selecting the appropriate cells with your mouse.
+
+Press Enter to complete the formula.
+
+Entering Formula
+
+Formatting Formulas with Cell References
+Using cell references in formulas makes your spreadsheet more dynamic and adaptable. Instead of using static values, you can use cell references as arguments in your formulas.
+
+Click on the cell where you want to enter the formula.
+
+Type the equal sign (=) to begin the formula.
+
+Enter the function name, followed by an open parenthesis.
+
+Click on the cell you want to reference, or type its address directly.
+
+Enter any additional arguments or cell references needed for the formula.
+
+Close the parenthesis and press Enter to complete the formula.
+
+Cell References
+
+Copying and Filling Formulas
+Excel allows you to copy and fill formulas across multiple cells, maintaining relative cell references automatically.
+
+Click on the cell containing the formula you want to copy.
+
+Hover your mouse over the bottom-right corner of the cell until the cursor changes to a small black cross (the fill handle).
+
+Click and drag the fill handle across the cells you want to fill with the formula.
+
+Copying Formula
+
+Release the mouse button to complete the action. Excel will copy the formula to the selected cells, adjusting the cell references as needed.
+
+Conclusion
+By the end of this section, you will have successfully learned the following:
+
+ The basic syntax of Excel formulas.
+ How to enter a formula in a cell.
+ Formatting formulas with cell references.
+ Copying and filling formulas across multiple cells.
+Great job 🤗. You can now effectively work with Excel formulas to perform calculations, manipulate data, and automate tasks within your spreadsheets. Click on the link below to move on to the next step:
+
+Creating a Chart
