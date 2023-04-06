@@ -1,0 +1,26 @@
+# Glossary
+
+| **Term**               | **Definition**                                                                                                                                                                                               |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cell**               | A single rectangular unit in a spreadsheet where data is stored. Cells are identified by their column and row (e.g., A1, B2, etc.).                                                                          |
+| **Column**             | A vertical series of cells in a spreadsheet. Columns are identified by letters (e.g., A, B, C, etc.).                                                                                                       |
+| **Formula**            | An expression in Excel that performs calculations using cell references, values, and functions to return a specific result.                                                                                 |
+| **Function**           | A predefined formula in Excel that performs specific calculations or actions using the specified arguments.                                                                                                 |
+| **Pivot Table**        | A powerful data summarization and analysis tool in Excel that allows users to easily arrange, filter, and summarize large datasets.                                                                         |
+| **Row**                | A horizontal series of cells in a spreadsheet. Rows are identified by numbers (e.g., 1, 2, 3, etc.).                                                                                                        |
+| **Spreadsheet**        | A digital document consisting of rows and columns used for organizing, analyzing, and storing data.                                                                                                         |
+| **Workbook**           | An Excel file that contains one or more spreadsheets, also known as worksheets.                                                                                                                            |
+| **Worksheet**          | An individual spreadsheet within a workbook, containing rows, columns, and cells to store and manipulate data.                                                                                              |
+| **Data Range**         | A group of contiguous cells in a worksheet, used as a source of data for Pivot Tables, charts, or other Excel features.                                                                                     |
+| **Absolute Reference** | A cell reference in a formula that remains fixed when the formula is copied or filled into other cells. An absolute reference uses a dollar sign ($) before the column and row (e.g., $A$1).               |
+| **Relative Reference** | A cell reference in a formula that adjusts automatically when the formula is copied or filled into other cells. Relative references do not use dollar signs (e.g., A1).                                       |
+| **Named Range**        | A descriptive name assigned to a specific cell or range of cells in a worksheet, making it easier to reference in formulas or navigation.                                                                    |
+| **Data Validation**    | A feature in Excel that allows users to control the type of data or values that can be entered into a cell or range of cells.                                                                              |
+| **Conditional Formatting** | A feature in Excel that allows users to apply specific formatting to cells based on the values or conditions they meet, making it easier to identify patterns, trends, or outliers in the data.             |
+| **Chart**              | A visual representation of data in a worksheet, created to help users better understand and interpret the information. Charts can be in the form of bar, column, line, pie, and many other formats.        |
+| **Data Series**        | A group of related data points plotted in a chart. Each data series has a unique color or pattern and is represented by a legend to differentiate it from other data series.                                  |
+| **Axis**               | The horizontal (X-axis) or vertical (Y-axis) lines in a chart that display the numerical scale for the data being plotted.                                                                                  |
+| **Data Label**         | A label or annotation that displays the value or name of a data point in a chart.                                                                                                                          |
+| **Legend**             | A key that identifies the data series or categories in a chart, usually displayed as a box with a color or pattern corresponding to each data series, along with a label to describe it.                     |
+
+This glossary provides definitions for terms relevant to the guide on creating tables, formatting formulas, and creating charts in Excel. Use these terms as a reference while working through the guide

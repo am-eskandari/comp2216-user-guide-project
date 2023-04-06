@@ -7,9 +7,9 @@ nav:
   - Troubleshooting: "/troubleshooting/"
   - Glossary: "/glossary/"
 
-repo_url: https://github.com/DanielOkonov/User-Guide
+repo_url: https://github.com/am-eskandari/comp2216-user-guide-project
 
-repo_name: DanielOkonov/User-Guide
+repo_name: am-eskandari/comp2216-user-guide-project
 
 theme:
   name: material

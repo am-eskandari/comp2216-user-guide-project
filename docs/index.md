@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hi everyone! 👋 In this user guide, we will explore some of the most powerful and widely-used features of [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel), focusing on three essential tasks such as, _formatting tables, using formulas, and creating charts_.
+Hi everyone! 👋 In this user guide, we will explore some of the *most powerful* and widely-used features of [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel), focusing on **three essential tasks** such as, _formatting tables, using formulas, and creating charts_.
 
-Our goal is to help you leverage Excel's capabilities to streamline your work and improve productivity by providing step-by-step instructions for each task.
+Our goal is to help you **leverage Excel's capabilities** to streamline your work and **improve productivity** by providing step-by-step instructions for each task.
 
 >:fontawesome-brands-microsoft:{ .microsoft } [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) is a spreadsheet application that is part of the Microsoft Office suite. It provides tools for creating, organizing, analyzing, and visualizing data in a tabular format.
 
@@ -13,15 +13,15 @@ Our goal is to help you leverage Excel's capabilities to streamline your work an
 
 This user guide is intended for:
 
-- Beginner to intermediate Excel users who want to improve their skills.
-- Professionals seeking to optimize their work processes using Excel.
+- **Beginner to intermediate** Excel users who want to improve their skills.
+- **Professionals** seeking to optimize their work processes using Excel.
 
 ## Prerequisite Knowledge
 
 Before diving into the guide, you should have:
 
-- Basic understanding of Microsoft Excel's interface and navigation.
-- Familiarity with simple Excel functions and formulas.
+- Basic understanding of **Microsoft Excel's interface** and navigation.
+- Familiarity with simple **Excel functions and formulas**.
 
 ## Software Requirements
 
@@ -39,10 +39,10 @@ Topics covered in this user guide are:
 
 ## Typographical Conventions
 
-1. Excel functions and formulas will be formatted as =FUNCTION_NAME().
-2. Excel features and options will be formatted in bold.
-3. Step-by-step instructions will be numbered and clearly separated.
-4. Notes, tips, and warnings will be provided in designated message blocks throughout the guide.
+1. Excel functions and formulas will be formatted as `=FUNCTION_NAME()`.
+2. **Excel features and options** will be formatted in bold.
+3. Step-by-step instructions will be *numbered* and clearly separated.
+4. Notes, tips, and warnings will be provided in **designated message blocks** throughout the guide.
 
 ## Notes and Warning Messages
 
