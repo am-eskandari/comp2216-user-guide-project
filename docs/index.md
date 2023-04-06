@@ -2,12 +2,11 @@
 
 ## Introduction
 
-Hi everyone! 👋 In this user guide, we will explore some of the *most powerful* and widely-used features of [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel), focusing on **three essential tasks** such as, _formatting tables, using formulas, and creating charts_.
+In this user guide, we will explore *commonly seen* features of [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel), which delving into *creating tables, using formulas and inserting charts*.*
 
-Our goal is to help you **leverage Excel's capabilities** to streamline your work and **improve productivity** by providing step-by-step instructions for each task.
+By following our instructions, we hope you can **leverage Excel's capabilities** to streamline your work.
 
->:fontawesome-brands-microsoft:{ .microsoft } [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) is a spreadsheet application that is part of the Microsoft Office suite. It provides tools for creating, organizing, analyzing, and visualizing data in a tabular format.
-
+>:fontawesome-brands-microsoft:{ .microsoft } [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) is a spreadsheet application that is part of the Microsoft Office suite, and includes tools for tabular data creation, organization, analysis, and visualization.
 
 ## Intended Users
 
@@ -25,9 +24,9 @@ Before diving into the guide, you should have:
 
 ## Software Requirements
 
-For this project, you will need [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) (2016 or later verion) installed.
+For this project, you will need [**Microsoft Excel**](https://www.microsoft.com/en-ca/microsoft-365/excel) (2016 or later version) installed.
 
-> The instructions in this user guide are primarily based on the Microsoft Excel interface for Windows. Although, the core concepts and steps can be applied to Excel on macOS or other platforms with minor adjustments, we will not be convering that in this guide.
+> The instructions in this user guide are primarily based on the Microsoft Excel interface for Windows. Although, the core concepts and steps can be applied to Excel on macOS or other platforms with minor adjustments, we will not be covering that in this guide.
 
 ## Procedures Overview
 
@@ -49,21 +48,21 @@ Topics covered in this user guide are:
 Throughout the guide, we will use message blocks to highlight important information or provide additional context. The message blocks are as follows, in order of importance:
 
 !!! danger "Warning"
-    Specifies actions that may cause an error or will cause the application to crash.
+    Warns users of specific actions which will likely cause an error.
 
 !!! warning "Caution"
-    Specifies content that must be read before proceeding.
+    Should read before proceeding.
 
-!!! infromation "Note"
-    Indicates additional notes or tips.
+!!! information "Note"
+    Educational tips and information.
 
 !!! success
-    Indicates what success looks like.
+    Provide what the end-goal looks like.
 
 ## Let's Get Started
 
-Now that you have a clear understanding of what to expect from this user guide, let's dive into the world of Microsoft Excel and start mastering these three powerful tasks!
+Now that you know what to expect from this user guide, let's jump into the world of Microsoft Excel and begin mastering these three powerful tasks!
 
 ## Acknowledgements
 
-This user guide has borrowed some formatting and content organization ideas from [**Megan Kuo's Express.js User Documentation**](https://megankuo.github.io/Express-User-Documentation/). We would like to express our gratitude for the inspiration and guidance provided by this excellent resource.
+This user guide has borrowed some formatting and content organization ideas from [**Megan Kuo's Express.js User Documentation**](https://megankuo.github.io/Express-User-Documentation/). We would like to thank their team for providing us with this fantastic resources.

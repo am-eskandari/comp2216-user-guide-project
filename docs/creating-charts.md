@@ -2,11 +2,11 @@
 
 ## Overview
 
-In this section, you will learn how to **[create and customize charts in Microsoft Excel](https://support.microsoft.com/en-us/office/video-create-a-chart-4d95c6a5-42d2-4cfc-aede-0ebf01d409a8)**. Excel charts enable you to visualize your data, making it easier to analyze trends, patterns, and relationships within your dataset. Mastering Excel charts can significantly enhance your data presentation and communication skills.
+Finally, you will now learn how to **[create and format charts in Microsoft Excel](https://support.microsoft.com/en-us/office/video-create-a-chart-4d95c6a5-42d2-4cfc-aede-0ebf01d409a8)**. Excel Chart is a great way to visualize data, and can significantly enhance your data presentation and organization.
 
 ## Types of Charts
 
-Each chart type serves a specific purpose and can be used to display different types of data. Excel offers a variety of chart types to help you represent your data in the most meaningful way. Some common chart types include:
+Each chart type serves a specific purpose and can display various types of data. Excel provides a number of chart types to provide better visuals for your spreadsheet. Some of these include:
 
 - Column Chart
 - Bar Chart
@@ -17,13 +17,15 @@ Each chart type serves a specific purpose and can be used to display different t
 - Bubble Chart
 
 !!! note "Important"
-    Make sure you have a well-structured dataset with appropriate headers and values before creating a chart. This will ensure that your chart is both accurate and easy to understand.
+    Make sure you have a well-structured dataset with appropriate headers and values before creating a chart as they aid in readability and correctness.
 
 ## Creating a Chart
 
-To create a chart in Excel, follow these steps:
+To create a chart in your spreadsheet:
 
-1. Select the data you want to include in your chart. Be sure to include headers if you want them to appear on the chart.
+1. Select the data you want to include in your chart.
+!!! note "Note"
+    Include headers if you want them on the chart.
 
     ![Select Data](./imgs/Creating%20Charts/select-data.png)
 
@@ -47,7 +49,7 @@ To create a chart in Excel, follow these steps:
 
 ## Customizing a Chart
 
-Once you have created a chart, you can customize its appearance and settings to better suit your needs.
+Once you have created a chart, you can customize its appearance and settings:
 
 !!! note "Important"
     Make sure you have have selected the chart by clicking on it once. Otherwise, the **Chart Design**, and **Format** tab will not show up.
@@ -92,7 +94,7 @@ Once you have created a chart, you can customize its appearance and settings to 
 
 ## Conclusion
 
-By the end of this section, you will have successfully learned the following:
+Now that we completed this section, you are equipped with the following skills:
 
 :material-check-circle:{ .green-checkmark } The various types of charts available in Excel.
 

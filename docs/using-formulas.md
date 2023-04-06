@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this section, you will learn how to format and work with **[formulas in Microsoft Excel](https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173)**. Excel formulas enable you to perform calculations, manipulate data, and automate tasks within your spreadsheets. Mastering Excel formulas can significantly improve your productivity and efficiency when working with data.
+Next, you will learn how to work with **[formulas in Microsoft Excel](https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173)**. Excel formulas helps you easily calculate, and manipulate data within your spreadsheets. Mastering Excel formulas can significantly improve your productivity and efficiency when working with data.
 
 ## Basic Formula Syntax
 
@@ -11,7 +11,7 @@ Excel formulas typically follow a specific syntax:
 `=FUNCTION_NAME(arguments)`
 
 - Formulas always begin with an equal sign (`=`).
-- `FUNCTION_NAME` represents the name of the Excel function you want to use.
+- `FUNCTION_NAME` represents the name of the Excel function.
 - `arguments` are the inputs or values required by the function, separated by commas.
 
 For example, the formula `=SUM(6,8)` adds up the values `6` and `8`.
@@ -26,7 +26,7 @@ For example, the formula `=SUM(6,8)` adds up the values `6` and `8`.
 
 ## Entering a Formula
 
-To enter a formula in a cell, follow these steps:
+To use a formula in your spreadsheet:
 
 1. Click on the cell where you want to enter the formula.
 
@@ -78,8 +78,7 @@ Excel allows you to copy and fill formulas across multiple cells, maintaining re
 
 4. Release the mouse button to complete the action. Excel will copy the formula to the selected cells, adjusting the cell references as needed.
 
-    !!! success
-        Now you have copied and filled your first Formula.
+    !!! success "Now you have copied and filled your first Formula."
 
         ![Click cell](./imgs/Using%20Formulas/first-fill.png)
 
@@ -88,7 +87,7 @@ Excel allows you to copy and fill formulas across multiple cells, maintaining re
 
 ## Conclusion
 
-By the end of this section, you will have successfully learned the following:
+Now that we completed this section, you are equipped with the following skills:
 
 :material-check-circle:{ .green-checkmark }  The basic syntax of Excel formulas.
 
@@ -98,6 +97,6 @@ By the end of this section, you will have successfully learned the following:
 
 :material-check-circle:{ .green-checkmark }  Copying and filling formulas across multiple cells.
 
-Great job 🤗. You can now effectively work with Excel formulas to perform calculations, manipulate data, and automate tasks within your spreadsheets.
+Great job 🤗. You can now effectively work with Excel formulas to perform calculations, manipulate data, within your spreadsheets.
 
 >Click on the link below to move on to the next step: **[Creating a Chart](creating-charts.md)**

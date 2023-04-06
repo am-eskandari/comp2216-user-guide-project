@@ -2,7 +2,9 @@
 
 ## Overview
 
-In this section, you will learn how to **[create and format a table in Microsoft Excel](https://support.microsoft.com/en-us/office/create-and-format-tables-e81aa349-b006-4f8a-9806-5af9df0ac664)**. Excel tables make it simple to organize, manage, and analyze data. Formatting a table in Excel offers several advantages:
+Now, you will learn how to **[create and format tables in Microsoft Excel](https://support.microsoft.com/en-us/office/create-and-format-tables-e81aa349-b006-4f8a-9806-5af9df0ac664)**. Tables are extremely helpful as they simplify how we manage and analyze data.
+
+Tables in Excel offers several advantages:
 
 - Simplified Data Organization
 - Easy Data Filtering
@@ -11,8 +13,8 @@ In this section, you will learn how to **[create and format a table in Microsoft
 
 ## Creating a Table
 
-Before you can start analyzing data using Tables, you need to have a dataset to work with. We will assume you have an Excel dataset ready for this guide. Feel free to use our sample table if you do not have a table to work with.
-!!! Note "Sample Dataset"
+Before you can start analyzing data using Tables, you need to have a dataset to work with. We will assume you have an Excel dataset ready for this guide.
+!!! Note "Sample dataset used in our examples"
 
     ### Fruits Prices
 
@@ -61,7 +63,7 @@ Before you can start analyzing data using Tables, you need to have a dataset to 
 
 ## Formatting a Table
 
-Now that you have created the table, you can format it to improve its appearance and readability.
+Now, you will learn how to format tables to improve its readability.
 
 1. Click on any cell within the table. This will activate the Table Tools tab, and you will see the Design tab appear on the Excel ribbon.
 
@@ -110,11 +112,11 @@ Now that you have created the table, you can format it to improve its appearance
 
 ## Conclusion
 
-By the end of this section, you will have successfully learned the following:
+Now that we completed this section, you are equipped with the following skills:
 
-:material-check-circle:{ .green-checkmark } The benefits of creating and formatting tables in Microsoft Excel.
+:material-check-circle:{ .green-checkmark } Creating and formatting tables in Microsoft Excel.
 
-:material-check-circle:{ .green-checkmark } How to create a table using your dataset.
+:material-check-circle:{ .green-checkmark } Creating a table using your dataset.
 
 :material-check-circle:{ .green-checkmark } Formatting a table using predefined table styles and customization options.
 
