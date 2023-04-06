@@ -47,17 +47,11 @@ Topics covered in this user guide are:
 
 Throughout the guide, we will use message blocks to highlight important information or provide additional context. The message blocks are as follows, in order of importance:
 
-!!! danger "Warning"
-    Warns users of specific actions which will likely cause an error.
+!!! warning "Should read before proceeding"
 
-!!! warning "Caution"
-    Should read before proceeding.
+!!! information "Educational tips and information."
 
-!!! information "Note"
-    Educational tips and information.
-
-!!! success
-    Provide what the end-goal looks like.
+!!! success "Provides what the end-goal looks like."
 
 ## Let's Get Started
 
