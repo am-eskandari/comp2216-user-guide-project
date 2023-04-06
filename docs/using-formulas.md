@@ -24,23 +24,25 @@ For example, the formula `=SUM(6,8)` adds up the values `6` and `8`.
 
     When using cell references in formulas, make sure you reference the correct cells. An incorrect reference can cause errors or produce incorrect results in your calculations.
 
+    ![Incorrect Ref](./imgs/Using%20Formulas/incorrect-ref.png)
+
 ## Entering a Formula
 
 To use a formula in your spreadsheet:
 
-1. Click on the cell where you want to enter the formula.
+1. Click on the **cell** where you want to enter the formula.
 
     ![Click Cell](./imgs/Using%20Formulas/click-cell.png)
 
-2. Type the equal sign (`=`) to begin the formula.
+2. Type the **equal** sign (`=`) to *begin the formula*.
 
     ![Enter `=`](./imgs/Using%20Formulas/enter-equal.png)
 
-3. Enter the function name and its arguments, either by typing them directly or by selecting the appropriate cells with your mouse.
+3. Enter the **function name and its arguments**, either by typing them directly or by selecting the appropriate cells with your mouse.
 
     ![Enter `=`](./imgs/Using%20Formulas/enter-sum.png)
 
-4. Press Enter to complete the formula.
+4. Press **Enter** to complete the formula.
 
     !!! success "Now you have entered your first Formula."
 
@@ -83,7 +85,8 @@ Excel allows you to copy and fill formulas across multiple cells, maintaining re
         ![Click cell](./imgs/Using%20Formulas/first-fill.png)
 
     !!! warning "Caution"
-        Be careful when copying and filling formulas with cell references. Ensure that the adjusted cell references in the copied formulas still refer to the correct cells and ranges to avoid errors or incorrect results.
+        Be careful when copying and filling formulas with cell references. Ensure that the adjusted cell references in the copied formulas still refer to the correct cells and ranges to avoid errors or incorrect results. (It will give similar result to the previous referential error shown above.)
+
 
 ## Conclusion
 

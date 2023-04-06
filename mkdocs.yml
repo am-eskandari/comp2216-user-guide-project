@@ -1,15 +1,15 @@
 site_name: MicroSoft Excel User Documentation
 nav:
   - Home: "index.md"
-  - Formatting a Table: "/formatting-tables"
-  - Using a Formula: "/using-formulas"
-  - Creating a Chart: "/creating-charts"
-  - Troubleshooting: "/troubleshooting"
-  - Glossary: "/glossary"
+  - Formatting a Table: "formatting-tables.md"
+  - Using a Formula: "using-formulas.md"
+  - Creating a Chart: "creating-charts.md"
+  - Troubleshooting: "troubleshooting.md"
+  - Glossary: "glossary.md"
 
-repo_url: https://github.com/am-eskandari/comp2216-user-guide-project
+# repo_url: https://github.com/am-eskandari/comp2216-user-guide-project
 
-repo_name: am-eskandari/comp2216-user-guide-project
+# repo_name: am-eskandari/comp2216-user-guide-project
 
 theme:
   name: material

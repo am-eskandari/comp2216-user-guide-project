@@ -23,25 +23,23 @@ Each chart type serves a specific purpose and can display various types of data.
 
 To create a chart in your spreadsheet:
 
-1. Select the data you want to include in your chart.
+1. *Select the data* you want to include in your chart.
 !!! note "Note"
     Include headers if you want them on the chart.
 
     ![Select Data](./imgs/Creating%20Charts/select-data.png)
 
-2. Go to the Insert tab on the Excel ribbon.
+2. Go to the **Insert tab** on the Excel ribbon.
 
     ![Insert Tab](./imgs/Creating%20Charts/insert-tab.png)
 
-3. In the Charts group, click on the dropdown arrow for the chart type you want to create.
+3. Click on the **dropdown arrow** for the chart type you want to create, in the **Charts** group.
 
     ![Dropdown](./imgs/Creating%20Charts/chart-dropdown.png)
 
-4. Choose a specific chart subtype from the options available.
+4. Choose a specific **chart subtype** from the options available. Excel will insert the chart on your worksheet, displaying the selected data.
 
     ![Subtype](./imgs/Creating%20Charts/chart-subtype.png)
-
-5. Excel will insert the chart on your worksheet, displaying the selected data.
 
 !!! success "Now you have created your first chart."
 
@@ -58,7 +56,7 @@ Once you have created a chart, you can customize its appearance and settings:
 
      ![Design Tab](./imgs/Creating%20Charts/design-tab.png)
 
-2. On the Design tab, you can:
+2. Customize what data to display by using these features in the **Design** tab:
 
     - Select a chart style from the Chart Styles group.
 
@@ -76,7 +74,7 @@ Once you have created a chart, you can customize its appearance and settings:
 
         ![Chart Typ](./imgs/Creating%20Charts/chart-type.png)
 
-3. On the Format tab, you can:
+3. Customize the design by using these features in the **Format** tab:
 
     - Change the fill, outline, or effects of the chart elements using the Shape Styles group.
     - Customize text options, such as font, size, and color, using the WordArt Styles group.

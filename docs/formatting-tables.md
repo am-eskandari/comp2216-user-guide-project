@@ -26,11 +26,11 @@ Before you can start analyzing data using Tables, you need to have a dataset to 
     | Grapes   | 4        | 0.4   |
     | Peaches  | 1        | 0.6   |
 
-1. Open your Excel workbook containing the dataset you want to organize in a table.
+1. Open your **Excel workbook** containing the dataset you want to organize in a table.
 
     ![Open Excel](./imgs/Formatting%20Tables/open-excel.png)
 
-2. Select any cell within the dataset.
+2. Select any **cell** within the dataset.
 
     ![Select Cell](./imgs/Formatting%20Tables/select-data.png)
 
@@ -42,7 +42,7 @@ Before you can start analyzing data using Tables, you need to have a dataset to 
 
     ![Insert Table](./imgs/Formatting%20Tables/table-button.png)
 
-5. In the **Create Table** dialog box that appears, ensure the correct data range is selected in the *Where is the data for your table?* field.
+5. Select the correct data range in the **Create Table** dialog box in the *Where is the data for your table?* field.
 
     ![Check Range](./imgs/Formatting%20Tables/check-range.png)
 
@@ -65,15 +65,15 @@ Before you can start analyzing data using Tables, you need to have a dataset to 
 
 Now, you will learn how to format tables to improve its readability.
 
-1. Click on any cell within the table. This will activate the Table Tools tab, and you will see the Design tab appear on the Excel ribbon.
+1. Click on any **cell** within the table. This will activate the **Table Tools** tab, and you will see the Design tab appear on the Excel ribbon.
 
     ![Activate Design](./imgs/Formatting%20Tables/activate-design.png)
 
-2. Go to the Design tab on the Excel ribbon.
+2. Go to the **Design** tab on the Excel ribbon.
 
     ![Design Tab](./imgs/Formatting%20Tables/design-tab.png)
 
-3. Choose a table style from the Table Styles gallery to apply a predefined format to the table.
+3. Choose a table style from the **Table Styles** gallery to apply a predefined format to the table.
 
     ![Table Style](./imgs/Formatting%20Tables/table-styles.png)
 
@@ -82,7 +82,7 @@ Now, you will learn how to format tables to improve its readability.
 
         ![Click OK](./imgs/Formatting%20Tables/style-preview.png)
 
-4. Customize your table further by using the available options in the Design tab:
+4. Customize your table further by using the available options in the **Design** tab:
     - **Header Row**: Toggles the display of header rows in the table.
 
         ![Header Row](./imgs/Formatting%20Tables/header-row.png)
@@ -120,6 +120,6 @@ Now that we completed this section, you are equipped with the following skills:
 
 :material-check-circle:{ .green-checkmark } Formatting a table using predefined table styles and customization options.
 
-Great job 🤗. You can now effectively create and format tables in Excel to organize and analyze your data efficiently.
+You can now effectively create and format tables in Excel to organize and analyze your data efficiently.
 
 > Click on the link below to move on to the next step: **[Using a Formula](using-formulas.md)**
