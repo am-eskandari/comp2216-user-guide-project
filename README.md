@@ -51,3 +51,4 @@ This document was built on: [Material for MkDocs](https://github.com/squidfunk/m
 
 - This document was built on: [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 - This user guide has borrowed some formatting and content organization ideas from [**Megan Kuo's Express.js User Documentation**](https://megankuo.github.io/Express-User-Documentation/). We thank their team for providing us with this fantastic resources.
+- This user guide can be found [here](https://am-eskandari.github.io/comp2216-user-guide-project/)
