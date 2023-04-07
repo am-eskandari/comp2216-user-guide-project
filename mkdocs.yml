@@ -26,6 +26,18 @@ theme:
   
   language: en
 
+    features:
+    # - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+
+      features:
+    # - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
