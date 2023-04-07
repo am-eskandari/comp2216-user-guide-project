@@ -26,12 +26,6 @@ theme:
   
   language: en
 
-    features:
-    # - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - toc.integrate
-    
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -102,6 +96,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - footnotes
+  - admonition
+  - codehilite
+  - def_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
