@@ -30,7 +30,7 @@ The majority of our team members were new to writing extensively in Markdown. We
 
 ## Following a Style Guide
 
-To maintain uniformity in our writing, we adhered to a specific style guide. We formatted code using code blocks and leveraged MkDocs features such as annotations and code highlighting to enhance the visual flow of our guide.
+To maintain uniformity in our writing, we adhered to a specific style guide inspired by IEEE. We formatted code using code blocks and leveraged MkDocs features such as annotations and code highlighting to enhance the visual flow of our guide.
 
 ## Focusing on Web Writing Best Practices
 
