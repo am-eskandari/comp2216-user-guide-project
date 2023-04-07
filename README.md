@@ -26,7 +26,7 @@ We chose MkDocs as our static site generator for its visually appealing Material
 
 ## Writing in Markdown and Using VS Code
 
-The majority of our team members were new to writing extensively in Markdown. We learned how to style text using Markdown and improved our skills throughout the development of this user guide. We used Visual Studio Code to write our Markdown files and relied on its built-in Markdown preview feature to preview our work.
+The majority of our team members were new to writing extensively in Markdown. We learned how to style text using Markdown and improved our skills throughout the development of this user guide. We wrote our Markdown files in Visual Studio Code and used its built-in preview feature to check our work.
 
 ## Following a Style Guide
 
@@ -43,11 +43,11 @@ We ensured that our user guide was easy to read and understand by incorporating 
 
 ## Conclusion
 
-Through our teamwork and commitment to clear communication, we created a comprehensive user guide for Microsoft Excel. We hope that this guide serves as a valuable resource for our readers and assists them in becoming proficient Excel users. We appreciate your interest in our Excel User Guide Documentation.
+Through our teamwork and commitment to clear communication, we created a comprehensive user guide for Microsoft Excel. We hope that this guide is useful to our readers. and we appreciate your interest in our Excel User Guide Documentation.
 
 This document was built on: [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 
 ## Acknowledgements
 
 - This document was built on: [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
-- This user guide has borrowed some formatting and content organization ideas from [**Megan Kuo's Express.js User Documentation**](https://megankuo.github.io/Express-User-Documentation/). We would like to thank their team for providing us with this fantastic resources.
+- This user guide has borrowed some formatting and content organization ideas from [**Megan Kuo's Express.js User Documentation**](https://megankuo.github.io/Express-User-Documentation/). We thank their team for providing us with this fantastic resources.
