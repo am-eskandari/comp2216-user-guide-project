@@ -23,6 +23,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.footer
+
   
   language: en
 
@@ -96,7 +98,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-  - footnotes
   - admonition
   - codehilite
   - def_list
